@@ -1,0 +1,7 @@
+#!/bin/bash
+
+bashrc=/home/$USER/.bashrc
+
+echo "alias ez_alias='python3 $PWD/c_alias.py'" >> $bashrc
+echo "added alias to $bashrc"
+source $bashrc
