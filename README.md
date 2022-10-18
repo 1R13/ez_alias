@@ -8,7 +8,7 @@ brought to you by python.
 
 ## how?
 
-You need to have >= python3 installed.\
+You need to have python >= 3.10.0 installed.\
 Clone this repo with ```git clone https://github.com/1R13/ez_alias.git ```.
 After cloning make the install file executable with ```chmod +x install```.
 By executing it ```./install```, it will add an alias for ez_alias and source .bashrc.\
